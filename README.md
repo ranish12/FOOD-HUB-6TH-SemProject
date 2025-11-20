@@ -92,10 +92,8 @@ food-hub/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
+## contributors
+Pabitra – User side 
+Ranish – Admin side
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-For support and queries, please contact support@foodhub.com
